@@ -4,4 +4,4 @@
 - Outputs to `.txt` (text) files.
 
 # Order of Execution 
-`bashMap.sh` > `bashReduce.sh` > `bashReducer.sh` > `bashTop.sh`
+`map.sh` > `reduce.sh` > `reducer.sh` > `top.sh`
