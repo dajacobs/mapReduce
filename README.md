@@ -4,5 +4,6 @@
 - Outputs to `.txt` (text) files.
 
 # Order of Execution
-'./func.sh [FUNCTION]' 
+`./func.sh [FUNCTION]` 
+
 `map` > `reduce` > `reducer` > `top`
